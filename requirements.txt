@@ -1,0 +1,14 @@
+pdfplumber
+groq
+yfinance
+pandas
+numpy
+feedparser
+transformers
+torch
+fastapi
+uvicorn
+python-dotenv
+streamlit
+plotly
+requests
